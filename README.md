@@ -3,8 +3,6 @@
 <h3>Welcome to my profile :tada:</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasyangtan404&label=Profile%20views&color=0e75b6&style=flat" alt="pasyangtan404" /> </p>
 
-<p align="left"> <a href="https://twitter.com/pasyangtan01" target="blank"><img src="https://img.shields.io/twitter/follow/pasyangtan01?logo=twitter&style=for-the-badge" alt="pasyangtan01" /></a> </p>
-
 <h3 align="left">Connect with me:link::</h3>
 <p align="left">
 
